@@ -1,0 +1,1 @@
+# Automatic-Defect-Inspection-of-Solar-Farm
