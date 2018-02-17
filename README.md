@@ -15,8 +15,8 @@ In the solar farm panel defect inspection system, the team uses the MobileNet ob
   
 The training process is supervised learning. The number of sample images for training is very limited due to lacking real captured images from UAVs. In order to use a limited training set to ensure the high accuracy and robustness of the model, we used the dataset augmentation and ensemble method in our solution. We took about 30 original solar panel images captured from internet as input, labelled them as either passed or had defects, and also marked the positions of the defects. The image size is 224 x 224. You can follow Below link/page to know about approach  
 
-Image Classification model using Convolutional Neural Network-Deep Learning [Link]{https://github.com/ronakdedhiya}  
-Tensorflow Object Detection API [Link]  
+Image Classification model using Convolutional Neural Network-Deep Learning [Link](https://github.com/RonakDedhiya/Automatic-Defect-Inspection-of-Solar-Farm/tree/master/Tensorflow%20Object%20Detection%20API) 
+Tensorflow Object Detection API [Link](https://github.com/RonakDedhiya/Automatic-Defect-Inspection-of-Solar-Farm/tree/master/Tensorflow%20Object%20Detection%20API)  
     
 Results:  
   
