@@ -1,5 +1,5 @@
 # Automatic-Defect-Inspection-of-Solar-Farm  
-  
+[Reference taken from Intel's similar work]
 Problem Definitions:  
 To implement Image segmentation with deep learning to classify between faulty and normal solar plates images.  
   
