@@ -1,12 +1,12 @@
 # Automatic-Defect-Inspection-of-Solar-Farm  
-  
+[Reference taken from Intel's similar work]
 Problem Definitions:  
 To implement Image segmentation with deep learning to classify between faulty and normal solar plates images.  
   
 Background:  
 A solar farm, which is referred to as a photovoltaic power station, is a large-scale photovoltaic system designed for the supply of merchant power into the electricity grid. To ensure the efficiency of power output, solar farms are usually far away from cities, and sited in agricultural areas with complex terrains. Routine inspection and maintenance is a herculean task for solar farms. The traditional manual inspection method can only support the inspection frequency of once in three months. Because of the hostile environment, solar panels may have defects; broken solar panel units reduce the power output efficiency. Moreover, according to the U.S. Department of Labor, utility inspection worker is one of the top ten most dangerous jobs in the United States. So, how to improve the inspection efficiency and keep workers safe at the same time is the big challenge.  
   
-<img src="/Dataset/ref/solar1.png">  
+<img src="/Dataset/ref/solar1.jpg">  
   
 The automatic defect inspection system based on the deep learning framework developed by the team can greatly improve the efficiency for data analysis, and reduce the workload of skilled workers. Usually, most of the deep learning workloads are accelerated with graphics processing units.  
   
@@ -22,7 +22,7 @@ Results:
   
 To illustrate the inspection effect of this system, the following sample images are shown. The image shown on the left is the original thermal image captured by UAVs obtained from internet. The image shown on the right is the detection result obtained from this inspection system. We can see that the classification and detection results are very accurate in this sample. Meanwhile, the confidence ratio of inspection results also provides valuable information for other decision-making systems in the subsequent process.  
 
-<img src="/Dataset/ref/solar2.png" height="512" width="512">  <img src="/Dataset/ref/solar3.png" height="512" width="512">  
+<img src="/Dataset/ref/solar2.jpg" height="256" width="256">  <img src="/Dataset/ref/solar3.png" height="256" width="256">  
   
 In this application case, utility workers would use the inspection report to guide the engineering team to change the bad units of solar panels. We cannot replace only the exact broken part of the solar panel; the solar panel should usually be replaced as a whole. That’s why end users care more about the detection rate—whether there are defects in this solar panel.  
   
