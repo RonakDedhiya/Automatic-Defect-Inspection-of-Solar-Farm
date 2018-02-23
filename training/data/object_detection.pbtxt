@@ -1,0 +1,20 @@
+item {
+  id: 1
+  name: 'CTA'
+}
+item {
+  id: 2
+  name: 'Diode Fault'
+}
+item {
+  id: 3
+  name: 'FI'
+}
+item {
+  id: 4
+  name: 'Hot Spot'
+}
+item {
+  id: 5
+  name: 'OHC Fault'
+}
