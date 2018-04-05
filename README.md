@@ -1,6 +1,6 @@
 # Automatic-Defect-Inspection-of-Solar-Farm  
 
-<img src="./Dataset/ref/images1.png">
+<img src="./Dataset/ref/images1.PNG">
   
 Conclusion:  
   
