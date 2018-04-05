@@ -4,7 +4,7 @@
 <img src="./Dataset/ref/images2.PNG">
 <img src="./Dataset/ref/images3.PNG">
 <img src="./Dataset/ref/images4.PNG">
-<img src="./Dataset/ref/images5.PNG" width="1024" height="1024">
+<img src="./Dataset/ref/images5.PNG" width="1024">
 <img src="./Dataset/ref/images6.PNG" width="1024" height="1024">
 <img src="./Dataset/ref/images7.PNG">
 <img src="./Dataset/ref/images8.PNG">
