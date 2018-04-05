@@ -15,11 +15,11 @@ This is the precautions of fault detected
 <img src="./Dataset/ref/images10.PNG">
 <img src="./Dataset/ref/images11.PNG">
 <img src="./Dataset/ref/images12.PNG">  
-  Misclassification:       
-  1.Diode Fault is misclassified as FI           
-  2.OHC Fault is misclassified as Hotspot    
-  Zoomed Images creates confusion for deep learning model  
-  Solution: Train it on large Image set    
+Misclassification:<br />       
+1.Diode Fault is misclassified as FI<br />           
+2.OHC Fault is misclassified as Hotspot<br />    
+Zoomed Images creates confusion for deep learning model<br />  
+Solution: Train it on large Image set<br />    
 <img src="./Dataset/ref/images13.PNG">  
 <img src="./Dataset/ref/images14.PNG">  
 
