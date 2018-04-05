@@ -1,6 +1,22 @@
 # Automatic-Defect-Inspection-of-Solar-Farm  
 
 <img src="./Dataset/ref/images1.PNG">
+<img src="./Dataset/ref/images2.PNG">
+<img src="./Dataset/ref/images3.PNG">
+<img src="./Dataset/ref/images4.PNG">
+<img src="./Dataset/ref/images5.PNG">
+<img src="./Dataset/ref/images6.PNG">
+<img src="./Dataset/ref/images7.PNG">
+<img src="./Dataset/ref/images8.PNG">
+<img src="./Dataset/ref/images9.PNG">
+<img src="./Dataset/ref/images10.PNG">
+<img src="./Dataset/ref/images11.PNG">
+<img src="./Dataset/ref/images12.PNG">
+<img src="./Dataset/ref/images13.PNG">
+<img src="./Dataset/ref/images14.PNG">
+
+
+
   
 Conclusion:  
   
