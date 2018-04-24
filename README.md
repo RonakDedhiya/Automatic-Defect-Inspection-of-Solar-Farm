@@ -5,11 +5,11 @@
 
 
 ### Below Image shows different types of faults which occur in solar panel and by their thermal images, It can be visually detected !!! 
-### Image1:From set of panels, one panel is brighter than rest one of them!! It's Over Heated - OverHeated Components Fault(OHC Fault)  
-### Image2:In a single panel, Middle cells are having different heat variation, its because of short circuit diode - Bypass Diode Fault 
-### Image3:There is a bright spot visible which is called HotSpot, It occurs due to dirt,scratches or cracks  
-### Image4:It is Zoomed out Image where each small rectangle is panel and we can see bottom panels are yellow in color compared to upper panels, Its bacause of interconnection Fault - Here bootom set of panels are disconnected from power supply.(FI- Faulty Interconnection)
-### Image5:It is a combination of Hotspot and known as Cluster of Thermal Anamolies(CTA Fault)
+### Image1: From set of panels, one panel is brighter than rest one of them!! It's Over Heated - OverHeated Components Fault(OHC Fault) 
+### Image2: In a single panel, Middle cells are having different heat variation, its because of short circuit diode - Bypass Diode Fault 
+### Image3: There is a bright spot visible which is called HotSpot, It occurs due to dirt,scratches or cracks  
+### Image4: It is Zoomed out Image where each small rectangle is panel and we can see bottom panels are yellow in color compared to upper panels, Its bacause of interconnection Fault - Here bootom set of panels are disconnected from power supply.(FI- Faulty Interconnection)
+### Image5: It is a combination of Hotspot and known as Cluster of Thermal Anamolies(CTA Fault)
 
 <img src="./Dataset/ref/images3.PNG">  
 
@@ -41,5 +41,5 @@
  
  ### Conclusion:  
   
-### This automatic defect inspection application for solar farms demonstrates that deep learning technology can be applied to solve real-world problems, such as unmanned inspection in harsh or dangerous environments7. The architecture of MobileNet can learn the sophisticated features from the input images for classification and detection tasks. This is a general solution for numerous inspection services in the markets, which can be used for oil and gas inspection, such as pipeline seepage and leakage; utilities inspection, like transmission lines and substations; and even for crisis response to emergencies. The UAVs can fly high up for close-up inspections without putting workers in danger. And the automatic defect inspection system can greatly improve the efficiency of mass data analysis without the help of skilled workers.  
+### This automatic defect inspection application for solar farms demonstrates that deep learning technology can be applied to solve real-world problems, such as unmanned inspection in harsh or dangerous environments. These architecture can learn the sophisticated features from the input images for classification and detection tasks. This is a general solution for numerous inspection services in the markets, which can be used for oil and gas inspection, such as pipeline seepage and leakage; utilities inspection, like transmission lines and substations; and even for crisis response to emergencies. The UAVs can fly high up for close-up inspections without putting workers in danger. And the automatic defect inspection system can greatly improve the efficiency of mass data analysis without the help of skilled workers.  
 
