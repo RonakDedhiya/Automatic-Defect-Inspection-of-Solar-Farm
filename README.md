@@ -5,11 +5,11 @@
 
 
 ### Below Image shows different types of faults which occur in solar panel and by their thermal images, It can be visually detected !!! 
-### Image1:From set of panels, one panel is brighter than rest one of them!! It's Over Heated - OverHeated Components Fault  
+### Image1:From set of panels, one panel is brighter than rest one of them!! It's Over Heated - OverHeated Components Fault(OHC Fault)  
 ### Image2:In a single panel, Middle cells are having different heat variation, its because of short circuit diode - Bypass Diode Fault 
 ### Image3:There is a bright spot visible which is called HotSpot, It occurs due to dirt,scratches or cracks  
-### Image4:It is Zoomed out Image where each small rectangle is panel and we can see bottom panels are yellow in color compared to upper panels, Its bacause of interconnection Fault - Here bootom set of panels are disconnected from power supply.  
-### Image5:It is a combination of Hotspot and known as Cluster of Thermal Anamolies  
+### Image4:It is Zoomed out Image where each small rectangle is panel and we can see bottom panels are yellow in color compared to upper panels, Its bacause of interconnection Fault - Here bootom set of panels are disconnected from power supply.(FI- Faulty Interconnection)
+### Image5:It is a combination of Hotspot and known as Cluster of Thermal Anamolies(CTA Fault)
 
 <img src="./Dataset/ref/images3.PNG">  
 
