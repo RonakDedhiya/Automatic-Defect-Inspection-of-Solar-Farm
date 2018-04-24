@@ -2,7 +2,7 @@
 
 <img src="./Dataset/ref/images1.PNG">
 <img src="./Dataset/ref/images2.PNG">
-# These are different types of faults which occur in solar panel and by their thermal images, It can be visually detected !!!  
+# These are different types of faults which occur in solar panel and by their thermal images, It can be visually detected !!!     
 # Image1:From set of panels, one panel is brighter than rest one of them!! It's Over Heated- OverHeated Components Fault  
 # Image2:In a single panel, Middle cells are having different heat variation, its because of diode short circuit- Bypass Diode Fault  
 # Image3:There is a bright spot visible which is called HotSpot, It occurs due to dirt,scratched or cracks  
