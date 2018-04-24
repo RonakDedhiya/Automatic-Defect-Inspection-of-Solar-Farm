@@ -11,16 +11,20 @@
 ### Image4:It is Zoomed out Image where each small rectanle is panel and we can see bottom panels are yellow in color compared to upper panels, Its bacause of interconnection Fault - here bootom set of panels are disconnected from power supply.  
 ### Image5:It is a combination of Hotspot and known as Cluster of Thermal Anamolies  
 
-<img src="./Dataset/ref/images4.PNG">    
+<img src="./Dataset/ref/images4.PNG">     
+
 ### This is the process we have used to do fault classification and localization using deep learning technique 
 
 <img src="./Dataset/ref/images5.PNG"> 
+
 ### As we can see,we have provided a test image and our trained model is able to classify what type of fault it is and put a bounding box around it. Here, It is detecting Diode Fault and certain Hotspots  
 
 <img src="./Dataset/ref/images6.PNG">
+
 ### This is the extension part where we are showing causes of fault from our knowledge base  
 
 <img src="./Dataset/ref/images7.PNG"> 
+
 ### This is the precautions of fault detected  
 
 <img src="./Dataset/ref/images8.PNG">  
