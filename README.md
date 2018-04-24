@@ -1,4 +1,5 @@
 # Automatic-Defect-Inspection-of-Solar-Farm  
+# These are different types of faults which occur in solar panel and by their thermal images, It can be visually detected !!!     
 
 <img src="./Dataset/ref/images1.PNG">
 <img src="./Dataset/ref/images2.PNG">
