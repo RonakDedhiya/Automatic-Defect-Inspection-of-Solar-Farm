@@ -14,7 +14,7 @@
 <img src="./Dataset/ref/images3.PNG">  
 
 ### Below is the process we have used to do fault classification and localization using deep learning technique called object detection(one-shot learning) & Transfer Learning
-<img src="./Dataset/ref/Transfer_Learning.jpg">      
+<img src="./Dataset/ref/workflow-for-object-detection.png">      
 
 ### As we can see,we have provided a test image and our trained model is able to classify what type of fault it is and put a bounding box around it. Here, It is detecting Diode Fault and certain Hotspots  
 <img src="./Dataset/ref/images5.PNG">
