@@ -13,7 +13,7 @@
 
 <img src="./Dataset/ref/images3.PNG">  
 
-### Below is the process we have used to do fault classification and localization using deep learning technique
+### Below is the process we have used to do fault classification and localization using deep learning technique using Transfer Learning
 <img src="./Dataset/ref/images4.PNG">      
 
 ### As we can see,we have provided a test image and our trained model is able to classify what type of fault it is and put a bounding box around it. Here, It is detecting Diode Fault and certain Hotspots  
