@@ -1,4 +1,5 @@
 # Automatic-Defect-Inspection-of-Solar-Farm  
+To replicate work follow https://github.com/RonakDedhiya/Automatic-Defect-Inspection-of-Solar-Farm/blob/master/Tensorflow%20Object%20Detection%20API/README.md
 
 <img src="./Dataset/ref/images1.PNG">  
 <img src="./Dataset/ref/images2.PNG">  
