@@ -53,7 +53,7 @@ Object-Detection
 -generate_tfrecord_train.py  
 -generate_tfrecord_test.py  
   
-Now clone https://github.com/tensorflow/models.git and follow installation steps.  
+Now clone https://github.com/tensorflow/models.git or https://github.com/RonakDedhiya/models.git and follow installation steps.  
   
 Now download ssd_mobilenet_v1_coco_11_06_2017.tar.gz and extranct to our Object-Detection folder.  
   
