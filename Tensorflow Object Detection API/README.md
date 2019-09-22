@@ -53,20 +53,22 @@ Object-Detection
 -generate_tfrecord_train.py  
 -generate_tfrecord_test.py  
   
-Now clone https://github.com/tensorflow/models.git or https://github.com/RonakDedhiya/models.git and follow installation steps.  
+Now clone https://github.com/RonakDedhiya/models.git and follow installation steps as described in  https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
   
-Now download ssd_mobilenet_v1_coco_11_06_2017.tar.gz and extranct to our Object-Detection folder.  
+Now download ssd_mobilenet_v1_coco_11_06_2017.tar.gz and extract to models/research/object_detection/training folder.  
   
-Also download and (edit if required) ssd_mobilenet_v1_pets.config   
+Also download and (edit if required) ssd_mobilenet_v1_pets.config in same folder   
   
 Training:    
-Now move content of our object detection folder to downloaded github repository in research\object_detection folder.  
 Inside training directory, add object-detection.pbtxt:  
   
 item {  
   id: 1  
   name: 'fault'  
-}  
+}
+
+Current tfrecord file has only one class. Thus pbtxt would have only 1 item.
+
 Now to start training, From within models/object_detection run :  
 python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/ssd_mobilenet_v1_pets.config  
   
